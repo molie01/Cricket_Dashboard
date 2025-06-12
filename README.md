@@ -1,7 +1,7 @@
-# 🏏 Cricket Dashboard (Power BI)
+# 🏏 Cricket Performance Dashboard (Power BI)
 
 <p align="center">
-  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=5E4B8B&height=200&section=header&text=Cricket%20Insights%20Dashboard&fontSize=35&fontColor=000000&fontAlign=50&fontAlignY=35&desc=Translating%20Cricket%20Performance%20into%20Data-Driven%20Winning%20Strategies&descAlign=50&descAlignY=55&animation=fadeIn">
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=5E4B8B&height=200&section=header&text=Cricket%20Performance%20Insights%20%7C%20Power%20BI%20Dashboard&fontSize=30&fontColor=000000&fontAlign=50&fontAlignY=35&desc=Translating%20Cricket%20Performance%20into%20Data-Driven%20Winning%20Strategies&descAlign=50&descAlignY=55&animation=fadeIn">
 </p>
 
 ---
