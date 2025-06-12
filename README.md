@@ -1,7 +1,7 @@
 # 🏏 Cricket Dashboard (Power BI)
 
 <p align="center">
-  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=292C3F&height=200&section=header&text=Cricket%20Insights%20Dashboard&fontSize=35&fontAlign=50&fontAlignY=35&desc=Translating%20Cricket%20Performance%20into%20Data-Driven%20Winning%20Strategies&descAlign=50&descAlignY=55&animation=fadeIn">
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=5E4B8B&height=200&section=header&text=Cricket%20Insights%20Dashboard&fontSize=35&fontColor=000000&fontAlign=50&fontAlignY=35&desc=Translating%20Cricket%20Performance%20into%20Data-Driven%20Winning%20Strategies&descAlign=50&descAlignY=55&animation=fadeIn">
 </p>
 
 ---
@@ -12,13 +12,11 @@ Deliver a visually interactive and insight-driven Power BI dashboard to evaluate
 ---
 
 ## 🗂 Dataset Overview
-- **Source**: JSON and CSV datasets
-- **Files**:
+- **Source**: 
   - [Batting Summary](https://github.com/molie01/Cricket_Dashboard/blob/main/Batting%20Summary.csv)
   - [Bowling Summary](https://github.com/molie01/Cricket_Dashboard/blob/main/Bowling%20Summary.csv)
   - [Match Results](https://github.com/molie01/Cricket_Dashboard/blob/main/Match%20Summary.csv)
   - [Player Information](https://github.com/molie01/Cricket_Dashboard/blob/main/Player%20Information%20(no%20image).csv)
-  - [Data Processing](https://github.com/molie01/Cricket_Dashboard/blob/main/Cricket%20.ipynb)
 - **Fields**: Player name, team, role, runs, strike rate, wickets, economy, matches, positions, and performance labels.
 
 ---
@@ -37,8 +35,9 @@ Deliver a visually interactive and insight-driven Power BI dashboard to evaluate
 
 ## 🛠️ Process Overview
 - Transformed nearly **5,000** raw JSON entries into clean CSV format using **Python (Pandas)**
+- [Data Processing](https://github.com/molie01/Cricket_Dashboard/blob/main/Cricket%20.ipynb)
 - Categorized players into **5 strategic roles**: Power Hitters, Anchors, Finishers, All-Rounders, Specialist Bowlers
-- Created **DAX measures** and customized visuals in **Power BI**
+- Created **DAX measures** and **calculated measures** to drive insights and customized visuals in **Power BI**
 - Designed a user-friendly layout for selector-focused performance evaluation
 
 ---
